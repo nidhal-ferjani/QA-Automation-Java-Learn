@@ -1,0 +1,8 @@
+in the same location
+
+flagrant
+File is already present
+fileInputStream along with scanner
+
+file is saved one the given location path
+some exception is coming

@@ -1,0 +1,4 @@
+TestNG_ReportersAndLogs ============> This runs once Before Class maximum Automation
+Get the maximum word  Automation count in a text file
+Freelance Developper JAVA/QA Automation maximum
+Tips For How To Get Freelance Projects in Software Testing maximum Automation
